@@ -1,8 +1,10 @@
-# com_nwayapp_gogle_raabmap
+#raab Map Navigation, Route & Traffic  #com_nwayapp_gogle_raabmap    ## Privacy Policy
+
 map Route Finder Route Guide trips Traffic Navigation
 
- ## Privacy Policy
-
+  ## Privacy Policy
+  
+  
 hero soft net built the com_nwayapp_gogle_raabmap app as an Ad Supported app. This SERVICE is provided by hero soft net at no cost and is intended for use as is.
 
 This page is used to inform website visitors regarding my policies with the collection, use, and
